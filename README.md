@@ -139,7 +139,7 @@ For commercial licensing inquiries (closed-source forks, white-label deployments
 
 ## Author
 
-**Miz Causevic** â€” Director of Web Engineering Â· Platform Architecture
+**Miz Causevic** â€” Boston Enterprise Technologist Â· Platform Architecture
 [mizcausevic-dev.github.io](https://mizcausevic-dev.github.io/) Â· [github.com/mizcausevic-dev](https://github.com/mizcausevic-dev) Â· [gv.kineticgain.com](https://gv.kineticgain.com)
 
 ---
