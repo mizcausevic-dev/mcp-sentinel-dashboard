@@ -38,7 +38,7 @@
     <text x="760" y="128" text-anchor="middle" fill="#06B6D4" font-size="11" font-weight="600" letter-spacing="1.5">DASHBOARD (THIS REPO)</text>
     <text x="760" y="152" text-anchor="middle" fill="#E2E8F0" font-size="12" font-weight="500">mcp-sentinel-dashboard</text>
     <text x="760" y="170" text-anchor="middle" fill="#94A3B8" font-size="10">Operator surface · React 19</text>
-    <text x="760" y="188" text-anchor="middle" fill="#94A3B8" font-size="10">mcp.kineticgain.com</text>
+    <text x="760" y="188" text-anchor="middle" fill="#94A3B8" font-size="10">sentinel.kineticgain.com</text>
   </g>
 
   <!-- Arrows -->

@@ -1,4 +1,4 @@
-# mcp.kineticgain.com — security response headers (Apache / Hostinger).
+# sentinel.kineticgain.com — security response headers (Apache / Hostinger).
 #
 # Sibling of kineticgain-com-apex/.htaccess. Same rubric (kg-header-audit's
 # grading config). No inline <script> in source — script-src is 'self'.
