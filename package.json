@@ -5,7 +5,7 @@
   "description": "Live governance dashboard for MCP Sentinel — observability, security audit, and policy visibility for Model Context Protocol servers.",
   "license": "AGPL-3.0-only",
   "author": "Miz Causevic <miz@kineticgain.com>",
-  "homepage": "https://mcp.kineticgain.com",
+  "homepage": "https://sentinel.kineticgain.com",
   "repository": {
     "type": "git",
     "url": "https://github.com/mizcausevic-dev/mcp-sentinel-dashboard.git"

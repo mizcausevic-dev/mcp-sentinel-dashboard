@@ -4,7 +4,7 @@
 
 [![CI](https://github.com/mizcausevic-dev/mcp-sentinel-dashboard/actions/workflows/ci.yml/badge.svg)](https://github.com/mizcausevic-dev/mcp-sentinel-dashboard/actions/workflows/ci.yml)
 [![License: AGPL v3](https://img.shields.io/badge/License-AGPL_v3-10B981.svg)](https://www.gnu.org/licenses/agpl-3.0)
-[![Live demo](https://img.shields.io/badge/demo-mcp.kineticgain.com-10B981.svg)](https://mcp.kineticgain.com)
+[![Live demo](https://img.shields.io/badge/demo-sentinel.kineticgain.com-10B981.svg)](https://sentinel.kineticgain.com)
 [![React](https://img.shields.io/badge/React-19-10B981.svg)](https://react.dev/)
 [![TypeScript](https://img.shields.io/badge/TypeScript-5.8-10B981.svg)](https://www.typescriptlang.org/)
 
@@ -18,18 +18,18 @@ The visual surface for the [`mcp-sentinel`](https://github.com/mizcausevic-dev/m
 ---
 
 <p align="center">
-  <a href="https://mcp.kineticgain.com">
+  <a href="https://sentinel.kineticgain.com">
     <img src="docs/screenshots/hero.png" alt="MCP Sentinel Dashboard live preview" width="900">
   </a>
 </p>
 
 <p align="center">
-  <em>Live at <a href="https://mcp.kineticgain.com">mcp.kineticgain.com</a></em>
+  <em>Live at <a href="https://sentinel.kineticgain.com">sentinel.kineticgain.com</a></em>
 </p>
 
 ## Live demo
 
-[**mcp.kineticgain.com**](https://mcp.kineticgain.com) â€” interactive preview of the governance UX.
+[**sentinel.kineticgain.com**](https://sentinel.kineticgain.com) â€” interactive preview of the governance UX.
 
 ---
 

@@ -10,7 +10,7 @@ permissions:
 
 jobs:
   deploy:
-    name: Build dist/ and FTP-sync to mcp.kineticgain.com
+    name: Build dist/ and FTP-sync to sentinel.kineticgain.com
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
@@ -35,7 +35,7 @@ jobs:
           echo "OK: dist/ verified"
           ls -lah dist/
 
-      - name: FTP-Deploy dist/ to /mcp/
+      - name: FTP-Deploy dist/ to /sentinel/
         uses: SamKirkland/FTP-Deploy-Action@v4.3.5
         with:
           server: ${{ secrets.FTP_HOST }}
@@ -44,7 +44,7 @@ jobs:
           protocol: ftps
           port: 21
           local-dir: ./dist/
-          server-dir: /mcp/
+          server-dir: /sentinel/
           dangerous-clean-slate: false
           log-level: standard
           exclude: |
